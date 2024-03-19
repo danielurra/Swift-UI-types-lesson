@@ -30,6 +30,6 @@ You can use `constants` or `variables` to **store** values. Both are containers 
 but a con- stant’s value can only be set once and cannot be changed after they are set, <br>
 whereas a variable’s value can be changed at any time.<br>
 You must declare constants and variables before you use them.<br>
-Constants are declared with the let keyword while variables are declared with the var keyword.<br>
+Constants are declared with the `let` keyword while variables are declared with the `var` keyword.<br>
 
 
