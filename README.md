@@ -2,7 +2,9 @@
 Swift is a `type-safe` language, It checks to see whether you’re assigning values of the correct type<br>
 to variables and flags mismatched types as errors.<br>
 ## Type inference
-Swift automatically determines the constant or variable `type` based on the **value provided**. This is called type inference. 
+Swift automatically determines the constant or variable `type` based on the **value provided**.<br>
+This is called type inference.<br>
+You can see the type of a constant or variable by holding down the `Option key` and clicking its name.<br>
 ![Screenshot 2024-03-19 at 5 18 29 AM](https://github.com/danielurra/Swift-UI-types-lesson/assets/51704179/985e86e3-01c2-4a62-82dd-a91dbdacf577)<br>
 ## Operators can only work with operands of the same type.
 ![Screenshot 2024-03-18 at 12 05 41 PM](https://github.com/danielurra/Swift-UI-types-lesson/assets/51704179/0c61d0d2-370f-4e84-ae74-1bc73b6a8394)<br>
