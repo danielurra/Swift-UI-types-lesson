@@ -6,6 +6,7 @@ to variables and flags mismatched types as errors.<br>
 ## Type annotation
 Type a colon (:) after a constant or variable name, followed by the desired type.<br>
 This is known as type annotation.<br>
+![Screenshot 2024-03-19 at 5 13 00 AM](https://github.com/danielurra/Swift-UI-types-lesson/assets/51704179/8af24a32-38f0-43e2-ad1b-fb58608d8824)<br>
 ## Special type for colors
 ![Screenshot 2024-03-17 at 3 17 55 PM](https://github.com/danielurra/Swift-UI-types-lesson/assets/51704179/b1b65592-64af-43e4-b062-41fc97a845fb)<br>
 
