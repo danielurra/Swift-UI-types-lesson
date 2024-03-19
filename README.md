@@ -1,4 +1,10 @@
 # Swift UI types lesson
+## Similar types as in other languages
+* String
+* Int
+* Double
+* etc.
+## Type-safe
 Swift is a `type-safe` language, It checks to see whether you’re assigning values of the correct type<br>
 to variables and flags mismatched types as errors.<br>
 ![Screenshot 2024-03-19 at 5 26 01 AM](https://github.com/danielurra/Swift-UI-types-lesson/assets/51704179/42930434-c702-4cc5-8397-f58ee1eb371e)<br>
