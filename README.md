@@ -1,9 +1,12 @@
 # Swift UI types lesson
 ## Similar types as in other languages
 * String
-* Int
-* Double
+* Int (integer, a whole)
+* Float (32 bits)
+* Double (64 bits)
+* Bool (boolean, true or false)
 * etc.
+  
 ## Type-safe
 Swift is a `type-safe` language, It checks to see whether you’re assigning values of the correct type<br>
 to variables and flags mismatched types as errors.<br>
