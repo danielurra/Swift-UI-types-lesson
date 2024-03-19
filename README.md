@@ -25,4 +25,11 @@ This is known as type annotation.<br>
 ![Screenshot 2024-03-19 at 5 13 00 AM](https://github.com/danielurra/Swift-UI-types-lesson/assets/51704179/8af24a32-38f0-43e2-ad1b-fb58608d8824)<br>
 ## Special type for colors
 ![Screenshot 2024-03-17 at 3 17 55 PM](https://github.com/danielurra/Swift-UI-types-lesson/assets/51704179/b1b65592-64af-43e4-b062-41fc97a845fb)<br>
+## Constants and variables
+You can use `constants` or `variables` to **store** values. Both are containers that have a name, <br>
+but a con- stant’s value can only be set once and cannot be changed after they are set, <br>
+whereas a variable’s value can be changed at any time.<br>
+You must declare constants and variables before you use them.<br>
+Constants are declared with the let keyword while variables are declared with the var keyword.<br>
+
 
