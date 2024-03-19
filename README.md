@@ -5,6 +5,7 @@
 * Float (32 bits)
 * Double (64 bits)
 * Bool (boolean, true or false)
+* Color (special type for colors)
 * etc.
   
 ## Type-safe
