@@ -15,7 +15,6 @@ to variables and flags mismatched types as errors.<br>
 ## Type inference
 Swift automatically determines the constant or variable `type` based on the **value provided**.<br>
 This is called type inference.<br>
-![type-inference-option-key-plus-click](https://github.com/danielurra/Swift-UI-types-lesson/assets/51704179/9045ebe1-6293-4719-b81a-d870f4f6015b)<br>
 ![type-inference-option-key-plus-click-500x140px](https://github.com/danielurra/Swift-UI-types-lesson/assets/51704179/339fcda5-80a7-405b-861f-dd443923499a)<br>
 You can see the type of a constant or variable by holding down the `Option key` and clicking its name.<br>
 ![Screenshot 2024-03-19 at 5 18 29 AM](https://github.com/danielurra/Swift-UI-types-lesson/assets/51704179/985e86e3-01c2-4a62-82dd-a91dbdacf577)<br>
